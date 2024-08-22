@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { MenuFoldOutlined, MenuUnfoldOutlined } from "@ant-design/icons";
 import { Button, Dropdown, Layout, Menu, Space, theme } from "antd";
-import { BrowserRouter as Router, Route, Routes, Link, Outlet } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 import { HiChartPie } from "react-icons/hi";
 import { FaUsers, FaUserCircle } from "react-icons/fa";
 import { AiOutlineProduct } from "react-icons/ai";
